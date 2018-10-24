@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ Jaffar Shorbaji
+ October 24th 2018
+ This is a program that does simple maffs
+ U2A2
  */
 
 package countingprogram;
